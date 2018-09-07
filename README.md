@@ -18,6 +18,22 @@ src/teest/java/
 +- com.futsalud.flyingsaucerpdfdemo.Demo1App ・・・ テストコード（何もテストしていません）
 ```
 
+### IPA フォントの入手
+以下より入手してください。
+https://ipafont.ipa.go.jp/old/ipafont/download.html
+
+↓を入手して、解凍されたフォントファイルを resources/fonts 配下に格納してください。
+
+```格納例
+$ ls -1
+IPA_Font_License_Agreement_v1.0.txt
+Readme_IPAfont00303.txt
+ipag.ttf
+ipagp.ttf
+ipam.ttf
+ipamp.ttf
+
+```
+
 ### リポジトリ
 https://github.com/extra-wasabi-jp/flying-saucer-pdf-demo.git
-
