@@ -24,7 +24,8 @@ https://ipafont.ipa.go.jp/old/ipafont/download.html
 
 ↓を入手して、解凍されたフォントファイルを resources/fonts 配下に格納してください。
 
-```格納例
+格納例
+```bash
 $ ls -1
 IPA_Font_License_Agreement_v1.0.txt
 Readme_IPAfont00303.txt
