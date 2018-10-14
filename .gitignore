@@ -1,4 +1,6 @@
-.gradle
-.build
-.out
-src/main/resources/fonts/*
+/.idea
+/.gradle
+/gradle
+/build/**
+/out/**
+/src/main/resources/fonts/**
